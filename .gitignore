@@ -1,0 +1,9 @@
+﻿*
+!.gitignore
+!exp8.html
+!index.htm
+!Images/**
+!appFiles/**
+!appFiles/MarwadiWebAPI/**
+!appFiles/MarwadiWebAPI/Banners/**
+!appFiles/MarwadiWebAPI/Banners/*.jpg
